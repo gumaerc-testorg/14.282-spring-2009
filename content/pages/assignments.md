@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ff1c4159-4968-9c2a-f7df-78efd4cf2812
 ---
@@ -22,7 +25,7 @@ The first deliverable is a set of three short **model-development essays**, corr
 
 2\. Model
 
-*   Parsimony (with respect to specified focus/aim of the essay)[1](#1)
+*   Parsimony (with respect to specified focus/aim of the essay)[{{< sup "1" >}}](#1)
     *   Is there a simpler alternative which yields the same outcomes?
     *   Can the model at hand be simplified and still give the same results?
 *   Legitimacy of assumptions
@@ -37,7 +40,7 @@ The first deliverable is a set of three short **model-development essays**, corr
 *   Do assumptions match the environment?
 *   Do outcomes match the observed behavior?
 
-{{< anchor "1" >}}{{< /anchor >}}1Holmström, Bengt: "The art of modeling is not what to put in but what to leave out."
+{{< sup "{{< anchor \"1\" >}}{{< /anchor >}}1" >}}Holmström, Bengt: "The art of modeling is not what to put in but what to leave out."
 
 Review Essay
 ------------
